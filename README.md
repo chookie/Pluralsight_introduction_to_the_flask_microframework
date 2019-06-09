@@ -1,2 +1,2 @@
-# Pluralsight_introduction_to_the_flask_microframework
-Pluralsight - Introduction to the Flask Microframework
+# Pluralsight - Introduction to the Flask Microframework
+https://app.pluralsight.com/library/courses/flask-micro-framework-introduction/table-of-contents
